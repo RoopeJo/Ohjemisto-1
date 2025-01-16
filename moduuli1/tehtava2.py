@@ -1,2 +1,2 @@
 käyttäjä = input("Roope: ")
-print("Hauska tavata,"+käyttäjä+"!")
+print("Terve,"+käyttäjä+"!")
